@@ -1,6 +1,6 @@
 # NLP Sentiment Analysis
 
-A sentiment analysis application that predicts emotions from text using machine learning. The model classifies text into six emotion categories: sadness, anger, love, surprise, fear, and joy.
+A sentiment analysis application that predicts emotions from text using machine learning. The model classifies text into six emotion categories: sadness, anger, love, surprise, fear, and joy
 
 ## Features
 
